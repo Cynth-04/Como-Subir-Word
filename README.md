@@ -1,2 +1,2 @@
 # Como-Subir-Word
-Aqui se muestra una investigación de como subir un archivo de word
+Aqui se muestra una investigación de como subir un archivo de word a Git Hub
